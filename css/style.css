@@ -1,0 +1,80 @@
+
+ .cuadro{
+  margin-left:163px;
+  width: 320px;
+}
+.cuadro2{
+  width: 320px;
+}
+label{
+	margin-left: 30px;
+	color: #800000;
+	font-size: 20PX;
+	font-weight: 900;
+}
+body{
+	background: #008080;
+
+}
+H1{
+	color: #FFC300 ;
+	font-size: 50PX;
+	font-weight: 900;
+}
+iframe{
+	position: relative;
+	float: left;
+	left: 630px;
+	bottom: 3250PX;
+	width: 820px;
+	min-height: 1200px;
+	border: 2px solid #999999;
+}
+.sex1 {
+	position: relative;
+	float: left;
+	left: 880px;
+	bottom: 3310px;
+	border: 1px solid #52be80 ;
+	background:#454545;
+	padding: 12PX;
+}
+button{
+	position: relative;
+	float: left;
+	left: 950px;
+	bottom: 3220px;
+
+}
+p{
+	color:#f1c40f ;
+}
+li{
+	color: #17202a ;
+	font-weight: 600;
+}
+h2{
+	font-family:Britanic Bold;
+	color:#97193b;
+	margin-left: 40px;
+	font-size: 30px;
+	font-weight: 950;
+	
+}
+h3{
+	font-family:Vivaldy;
+	color:#5b2c6f;
+	margin-left: 12px;
+	font-size: 30px;
+	font-weight: 950;
+	display: flex;
+}
+
+
+.name{
+	display: flex;
+
+}
+.name2{
+	display: flex;
+}
